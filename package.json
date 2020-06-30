@@ -23,11 +23,6 @@
         "zip",
         "dmg"
       ]
-    },
-    "publish": {
-        "provider": "github",
-        "owner": "amanandrade",
-        "repo": "electron-updater-example"
-      }
+    }
   }
 }
